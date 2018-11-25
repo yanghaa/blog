@@ -1,0 +1,3 @@
+[submodule "themes/amber"]
+	path = themes/amber
+	url = git@github.com:yanghaa/hexo-theme-amber.git
