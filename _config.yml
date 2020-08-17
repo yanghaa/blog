@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Notebook
+title: 超材料记事本
 subtitle: by Yanghaa
 description:
 keywords:
@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://hexo.yanghaa.top
+url: http://ora.yanghaa.ml
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -74,7 +74,7 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 #theme: landscape
-theme: amber
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
